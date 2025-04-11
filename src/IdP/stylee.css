@@ -1,0 +1,92 @@
+
+.main{
+    background-color:hsl(220, 20%, 91%);
+    justify-items: center;
+    border: 10px;
+    border-radius: 10px; 
+}
+.h1{
+    font-size: 50px;
+    color: rgb(19, 6, 6);
+}
+.info{
+    background: white;
+    padding: 10px;
+    width: 400px;
+    border-radius: 10px;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+}
+.input{
+    margin-right: 15px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px; 
+    width: 50% 
+}
+.date{
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 35%
+
+}
+
+.input2{
+    margin-top: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 92%;
+}
+.addsectionButton{
+    padding: 2px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    background-color: rgb(56, 56, 230);
+    font-size: 15px;
+    font-weight: lighter;
+    cursor: pointer;
+
+}
+.addSection{
+    background-color:white;
+    padding: 0px 50px 50px;
+    border-radius: 10px;
+}
+.remove ,.newcol ,.Addrow{
+    
+    padding: 5px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    color:white;
+    font-size: 15px;
+    font-weight: lighter;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    background-color:rgb(56, 56, 230);;
+}
+.ExpoButton {
+    padding: 2px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-weight: lighter;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    background-color:rgb(56, 56, 230);
+  }
+.ExpoButton:hover
+ {
+    transform: translateY(-2px);
+  }
+
